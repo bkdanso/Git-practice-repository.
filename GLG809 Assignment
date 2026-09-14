@@ -1,0 +1,4 @@
+Git practice repository
+git add notes.txt
+2
+git commit -m "Added project notes file"
